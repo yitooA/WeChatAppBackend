@@ -1,5 +1,6 @@
 {
     "require": {
-        "encore/laravel-admin": "1.*"
+        "encore/laravel-admin": "1.*",
+        "kreait/laravel-firebase": "^5.2"
     }
 }
